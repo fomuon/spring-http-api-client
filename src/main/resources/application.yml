@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: spring-http-api-client
+  threads:
+    virtual:
+      enabled: false
+
+logging:
+  level:
+    root: debug
